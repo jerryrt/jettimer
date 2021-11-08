@@ -90,7 +90,7 @@ object Plugins {
 object Configs {
     const val applicationId = "com.ericktijerou.jettimer"
     const val buildToolsVersion = "30.0.3"
-    const val compileSdkVersion = 30
+    const val compileSdkVersion = 31
     const val minSdkVersion = 23
     const val targetSdkVersion = 30
     const val versionCode = 1
@@ -99,21 +99,21 @@ object Configs {
 
 object Versions {
     internal const val appcompat = "1.2.0"
-    internal const val gradle = "7.0.0-alpha08"
+    internal const val gradle = "7.0.2"
     internal const val coroutines = "1.4.2"
     internal const val materialDesign = "1.3.0"
-    internal const val coreKtx = "1.5.0-beta01"
-    internal const val composePaging = "1.0.0-alpha07"
+    internal const val coreKtx = "1.5.0"
+    internal const val composePaging = "1.0.0-alpha14"
     internal const val composeActivity = "1.3.0-alpha03"
     internal const val composeConstraint = "1.0.0-alpha03"
     internal const val navigationCompose = "1.0.0-alpha08"
-    internal const val daggerHilt = "2.31-alpha"
+    internal const val daggerHilt = "2.40"
     internal const val daggerHiltAndroid = "1.0.0-alpha03"
-    internal const val composeViewModel = "1.0.0-alpha01"
-    internal const val lifecycle = "2.3.0"
+    internal const val composeViewModel = "1.0.0-alpha07"
+    internal const val lifecycle = "2.4.0"
     internal const val eventBus = "3.2.0"
-    const val kotlin = "1.4.30"
-    const val compose = "1.0.0-beta01"
+    const val kotlin = "1.4.32"
+    const val compose = "1.0.0-beta07"
     const val spotless = "5.10.0"
     const val ktlint = "0.40.0"
 }
